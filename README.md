@@ -5,7 +5,7 @@ Dashboards feitos no Intensivão de Power BI da Hashtag Treinamentos
 
 <br>
 
-# Acessar os Arquivos para Visualização no app Power BI <img height="50" width="60" src="https://github.com/microsoft/PowerBI-Icons/blob/bb026ec2f21c130f9523fab2749449c27485c8e3/SVG/PowerBI.svg">
+# Visualize no app Power BI <img height="50" width="60" src="https://github.com/microsoft/PowerBI-Icons/blob/bb026ec2f21c130f9523fab2749449c27485c8e3/SVG/PowerBI.svg">
 [Clique Aqui](https://github.com/thiago-suzuki/Dashboards-PowerBI-2023/tree/main/Arquivos%20PBIT)
 
 <br>
