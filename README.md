@@ -1,5 +1,7 @@
 # Dashboards Power BI <img height="50" width="60" src="https://github.com/microsoft/PowerBI-Icons/blob/bb026ec2f21c130f9523fab2749449c27485c8e3/SVG/PowerBI.svg">
 Dashboards feitos no Intensivão de Power BI da Hashtag Treinamentos
+- Dashboard de Vendas: [Veja Aqui](https://github.com/thiago-suzuki/Dashboards-PowerBI-2023/blob/main/Dashboard%20de%20Vendas.pdf)
+- Dashboard de Produção: [Veja Aqui](https://github.com/thiago-suzuki/Dashboards-PowerBI-2023/blob/main/Dashboard%20de%20Produ%C3%A7%C3%A3o.pdf)
 
 
 
