@@ -3,6 +3,7 @@ Dashboards feitos no Intensivão de Power BI da Hashtag Treinamentos
 - Dashboard de Vendas: [Veja Aqui](https://github.com/thiago-suzuki/Dashboards-PowerBI-2023/blob/main/Arquivos%20PDF/Dashboard%20de%20Vendas.pdf)
 - Dashboard de Produção: [Veja Aqui](https://github.com/thiago-suzuki/Dashboards-PowerBI-2023/blob/main/Arquivos%20PDF/Dashboard%20de%20Produ%C3%A7%C3%A3o.pdf)
 - Dashboard de RH: [Veja Aqui](https://github.com/thiago-suzuki/Dashboards-PowerBI-2023/blob/main/Arquivos%20PDF/Dashboard%20de%20RH.pdf)
+- Dashboard Financeiro: [Veja Aqui](https://github.com/thiago-suzuki/Dashboards-PowerBI-2023/blob/main/Arquivos%20PDF/Dashboard%20Financeiro.pdf)
 
 <br>
 
